@@ -1,4 +1,4 @@
 ﻿int NumberA = 3;
 int NumberB = 5;
-int result = NumberA + NumberB;
-Console.WriteLine(result);
+int result = NumberA + NumberB; //можно ввести доп переменную result
+Console.WriteLine(result); //либо (NumberA + NumberB)
